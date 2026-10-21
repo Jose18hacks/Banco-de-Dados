@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="dBCL9gvwRcOHFjs9WJQv">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p&gt;&lt;strong&gt;Exercício 1 — Ache os relacionamentos.&lt;/strong&gt; Escreva no formato ENTIDADE — verbo — ENTIDADE:&lt;/p&gt;&#xa;&lt;ol&gt;&#xa;&lt;li&gt;O cliente faz pedidos.&lt;/li&gt;&#xa;&lt;li&gt;O motorista dirige um ônibus.&lt;/li&gt;&#xa;&lt;li&gt;O autor escreve livros.&lt;/li&gt;&#xa;&lt;li&gt;O funcionário trabalha em um departamento.&lt;/li&gt;&#xa;&lt;li&gt;O jogador joga em um time.&lt;/li&gt;&#xa;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="270" width="560" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-5" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="RF2oNbLR-512MR6bcQ3R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="CLIENTE" vertex="1">
+          <mxGeometry height="40" width="100" x="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-3" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="faz" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="PEDIDOS" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-7" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RF2oNbLR-512MR6bcQ3R-4">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
+            <mxPoint x="480" y="429.5" as="sourcePoint" />
+            <mxPoint x="550" y="429.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-10" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="RF2oNbLR-512MR6bcQ3R-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-11" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="MOTORISTA" vertex="1">
+          <mxGeometry height="40" width="100" x="190" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-12" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="dirige" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-13" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="ONIBUS" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-14" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RF2oNbLR-512MR6bcQ3R-13">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
+            <mxPoint x="480" y="529.5" as="sourcePoint" />
+            <mxPoint x="550" y="529.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-15" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="RF2oNbLR-512MR6bcQ3R-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-16" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="AUTOR" vertex="1">
+          <mxGeometry height="40" width="100" x="190" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-17" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="escreve" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-18" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="LIVROS" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-19" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RF2oNbLR-512MR6bcQ3R-18">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
+            <mxPoint x="480" y="639.5" as="sourcePoint" />
+            <mxPoint x="550" y="639.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-20" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="RF2oNbLR-512MR6bcQ3R-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-21" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="FUNCIONARIO" vertex="1">
+          <mxGeometry height="40" width="100" x="185" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-22" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="trabalha" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-23" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="DEPARTAMENTO" vertex="1">
+          <mxGeometry height="40" width="100" x="555" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-24" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RF2oNbLR-512MR6bcQ3R-23">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
+            <mxPoint x="475" y="759.5" as="sourcePoint" />
+            <mxPoint x="545" y="759.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-25" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="RF2oNbLR-512MR6bcQ3R-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-26" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="JOGADOR" vertex="1">
+          <mxGeometry height="40" width="100" x="195" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-27" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="joga" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-28" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="TIME" vertex="1">
+          <mxGeometry height="40" width="100" x="565" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="RF2oNbLR-512MR6bcQ3R-29" edge="1" parent="1" source="RF2oNbLR-512MR6bcQ3R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RF2oNbLR-512MR6bcQ3R-28">
+          <mxGeometry relative="1" x="0.0071" as="geometry">
+            <mxPoint x="485" y="879.5" as="sourcePoint" />
+            <mxPoint x="555" y="879.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
